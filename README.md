@@ -11,9 +11,9 @@
 - Support Tool : { VSCode | GitHub | Wikipedia }
 - Develope & Desgined By Mayank
 - CopyRight By Mayank
-- [url] ()
-- [download] ()
+- [url] (https://mayankdevil.github.io/Clone1/)
+- [download] (https://github.com/MayankDevil/clone1)
 
 ---
 
->	* NOTE : IT IS Clone website not real wikipedia*
+> *NOTE : it is not real wikipedia page it is testing webpage by me*
