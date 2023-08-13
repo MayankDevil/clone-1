@@ -1,4 +1,4 @@
-# clone-1
+# Clone-1
 
 - Name : "Wikipedia"
 
@@ -14,7 +14,7 @@
 
 - TecStack : { HTML | Bootstrap }
 
-- Thanks : { VSCode | GitHub | Bootstrap | Wikipedia | Pinterest }
+- Thanks : { VSCode | GitHub | Bootstrap | Wikipedia }
 
 - Work : Self
 
